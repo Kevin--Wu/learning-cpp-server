@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/LogFile_test.dir/LogFile_test.cc.o  -o ../../../bin/LogFile_test -rdynamic ../../../lib/libmymuduo_base.a -lpthread -lrt 

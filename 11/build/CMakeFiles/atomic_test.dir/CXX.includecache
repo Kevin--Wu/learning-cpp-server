@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kevin/project/cpp_server_learning/11/source/Atomic.h
+noncopyable.h
+/home/kevin/project/cpp_server_learning/11/source/noncopyable.h
+stdint.h
+-
+
+/home/kevin/project/cpp_server_learning/11/source/Atomic_unittest.cc
+Atomic.h
+/home/kevin/project/cpp_server_learning/11/source/Atomic.h
+assert.h
+-
+
+/home/kevin/project/cpp_server_learning/11/source/noncopyable.h
+

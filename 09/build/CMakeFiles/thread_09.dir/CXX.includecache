@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kevin/project/cpp_server_learning/09/source/thread.cpp
+thread.h
+/home/kevin/project/cpp_server_learning/09/source/thread.h
+
+/home/kevin/project/cpp_server_learning/09/source/thread.h
+pthread.h
+-
+boost/function.hpp
+-
+
+/home/kevin/project/cpp_server_learning/09/source/thread_main.cpp
+iostream
+-
+boost/bind.hpp
+-
+thread.h
+/home/kevin/project/cpp_server_learning/09/source/thread.h
+

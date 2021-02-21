@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kevin/project/cpp_server_learning/10/source/Timestamp.cc
+sys/time.h
+-
+stdio.h
+-
+Timestamp.h
+/home/kevin/project/cpp_server_learning/10/source/Timestamp.h
+inttypes.h
+-
+
+/home/kevin/project/cpp_server_learning/10/source/Timestamp.h
+boost/operators.hpp
+-
+copyable.h
+/home/kevin/project/cpp_server_learning/10/source/copyable.h
+Types.h
+/home/kevin/project/cpp_server_learning/10/source/Types.h
+
+/home/kevin/project/cpp_server_learning/10/source/Types.h
+stdint.h
+-
+string.h
+-
+string
+-
+assert.h
+-
+
+/home/kevin/project/cpp_server_learning/10/source/copyable.h
+

@@ -1,0 +1,5 @@
+add_executable(HttpServer_test HttpServer_test.cc)
+target_link_libraries(HttpServer_test mymuduo_http)
+
+add_executable(HttpRequest_unittest HttpRequest_unittest.cc)
+target_link_libraries(HttpRequest_unittest mymuduo_http boost_unit_test_framework)

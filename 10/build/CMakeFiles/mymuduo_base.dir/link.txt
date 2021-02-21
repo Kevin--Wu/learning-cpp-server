@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libmymuduo_base.a  CMakeFiles/mymuduo_base.dir/Timestamp.o
+/usr/bin/ranlib lib/libmymuduo_base.a

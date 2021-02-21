@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/Atomic_unittest.dir/Atomic_unittest.cc.o  -o ../../../bin/Atomic_unittest -rdynamic ../../../lib/libmymuduo_base.a -lpthread -lrt 

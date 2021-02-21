@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/Inspector_test.dir/test/Inspector_test.cc.o  -o ../../../bin/Inspector_test -rdynamic ../../../lib/libmymuduo_inspect.a ../../../lib/libmymuduo_http.a ../../../lib/libmymuduo_net.a ../../../lib/libmymuduo_base.a -lpthread -lrt 

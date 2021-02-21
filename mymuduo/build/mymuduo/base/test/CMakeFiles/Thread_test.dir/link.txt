@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/Thread_test.dir/Thread_test.cc.o  -o ../../../bin/Thread_test -rdynamic ../../../lib/libmymuduo_base.a -lpthread -lrt 

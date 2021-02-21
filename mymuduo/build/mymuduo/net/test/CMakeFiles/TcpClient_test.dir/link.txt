@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/TcpClient_test.dir/TcpClient_test.cc.o  -o ../../../bin/TcpClient_test -rdynamic ../../../lib/libmymuduo_net.a ../../../lib/libmymuduo_base.a -lpthread -lrt 

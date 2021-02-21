@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/BlockingQueue_bench.dir/BlockingQueue_bench.cc.o  -o ../../../bin/BlockingQueue_bench -rdynamic ../../../lib/libmymuduo_base.a -lpthread -lrt 

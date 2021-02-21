@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kevin/project/learning-cpp-server/mymuduo/source/mymuduo/base/Atomic.h
+mymuduo/base/noncopyable.h
+/home/kevin/project/learning-cpp-server/mymuduo/source/mymuduo/base/mymuduo/base/noncopyable.h
+stdint.h
+-
+
+/home/kevin/project/learning-cpp-server/mymuduo/source/mymuduo/base/noncopyable.h
+
+/home/kevin/project/learning-cpp-server/mymuduo/source/mymuduo/base/test/Atomic_unittest.cc
+mymuduo/base/Atomic.h
+/home/kevin/project/learning-cpp-server/mymuduo/source/mymuduo/base/test/mymuduo/base/Atomic.h
+assert.h
+-
+

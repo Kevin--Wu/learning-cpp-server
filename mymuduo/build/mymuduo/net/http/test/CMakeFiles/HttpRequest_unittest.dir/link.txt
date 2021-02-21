@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/HttpRequest_unittest.dir/HttpRequest_unittest.cc.o  -o ../../../../bin/HttpRequest_unittest -rdynamic ../../../../lib/libmymuduo_http.a -lboost_unit_test_framework ../../../../lib/libmymuduo_net.a ../../../../lib/libmymuduo_base.a -lpthread -lrt 

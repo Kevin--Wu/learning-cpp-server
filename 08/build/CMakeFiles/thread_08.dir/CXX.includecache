@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kevin/project/cpp_server_learning/08/source/thread.cpp
+thread.h
+/home/kevin/project/cpp_server_learning/08/source/thread.h
+
+/home/kevin/project/cpp_server_learning/08/source/thread.h
+pthread.h
+-
+
+/home/kevin/project/cpp_server_learning/08/source/thread_main.cpp
+iostream
+-
+thread.h
+/home/kevin/project/cpp_server_learning/08/source/thread.h
+

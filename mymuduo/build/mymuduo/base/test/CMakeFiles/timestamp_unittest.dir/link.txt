@@ -1,0 +1,1 @@
+g++    -std=c++11   CMakeFiles/timestamp_unittest.dir/Timestamp_unittest.cc.o  -o ../../../bin/timestamp_unittest -rdynamic ../../../lib/libmymuduo_base.a -lpthread -lrt 
